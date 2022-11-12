@@ -20,8 +20,14 @@ public class practice
 	public void m2()
 	{
 		System.out.println("running m2 method");
-		
-		
+	}
+	public void m3()
+	{
+		System.out.println("running m3 method");
+	}
+	public void m4()
+	{
+		System.out.println("running m4 method");
 	}
 
 }
